@@ -15,7 +15,7 @@ This project uses the following software and Python libraries:
 # Starting the Project:
 we need to have software installed to run and execute a Jupyter Notebook.
 
-Note:If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.Please make sure that you use the most recent version of project files when completing a project!
+Note: If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.Please make sure that you use the most recent version of project files when completing a project!
 
 ### This project contains three files:
 *customer_segments.ipynb: This is the main file where you will be performing your work on the project.
