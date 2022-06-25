@@ -6,11 +6,11 @@ In this project I used unsupervised machine learning techniques on product spend
 # Software and Libraries:
 This project uses the following software and Python libraries:
 
-*Python 2.7
-*NumPy
-*pandas
-*scikit-learn
-*matplotlib
+*Python 2.7<br>
+*NumPy<br>
+*pandas<br>
+*scikit-learn<br>
+*matplotlib<br>
 
 # Starting the Project:
 we need to have software installed to run and execute a Jupyter Notebook.
