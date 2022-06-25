@@ -6,11 +6,11 @@ In this project I used unsupervised machine learning techniques on product spend
 # Software and Libraries:
 This project uses the following software and Python libraries:
 
-*Python 2.7<br>
-*NumPy<br>
-*pandas<br>
-*scikit-learn<br>
-*matplotlib<br>
+* Python 2.7<br>
+* NumPy<br>
+* pandas<br>
+* scikit-learn<br>
+* matplotlib<br>
 
 # Starting the Project:
 we need to have software installed to run and execute a Jupyter Notebook.
@@ -18,8 +18,8 @@ we need to have software installed to run and execute a Jupyter Notebook.
 Note: If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.Please make sure that you use the most recent version of project files when completing a project!
 
 ### This project contains three files:
-*customer_segments.ipynb: This is the main file where you will be performing your work on the project.<br>
-*customers.csv: The project dataset. You'll load this data in the notebook.<br>
-*visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.<br>
+* Creating Customer Segments(Unsupervised ML project).ipynb: This is the main file where I performed my work.<br>
+* wholesale_customers_data.csv: The project dataset. We'll load this data in the notebook.<br>
+* visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.<br>
 
 First we have to go to the folder containing the project files,then open the cmd(command Prompt) & use the command `jupyter notebook` or `ipython notebook` Follow the instructions in the notebook and answer each question presented to successfully complete the project. A README file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
